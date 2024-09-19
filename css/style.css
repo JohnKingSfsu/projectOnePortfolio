@@ -11,6 +11,7 @@ body img {
 header a {
     text-decoration: none;
     margin: 42px;
+    color: black;
 }
 
 header {
