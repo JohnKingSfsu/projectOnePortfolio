@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(254, 244, 213);
+}
+
+body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header a {
+    text-decoration: none;
+    margin: 42px;
+    color:rgb(142, 191, 236);
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+    padding-left: 600px;
+}
+
+.left {
+padding-right: 600px;
+}
