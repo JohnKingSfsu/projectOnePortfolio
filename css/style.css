@@ -39,7 +39,7 @@ h3 {
 }
 
 .right {
-    float: right;
+    padding-left: 600px;
 }
 
 .left {
