@@ -1,5 +1,17 @@
+* {
+    margin-bottom: 0px;
+}
+
 body {
     background-color: rgb(254, 244, 213);
+}
+
+footer p a {
+    color: black;
+}
+
+.logo {
+    float: right;
 }
 
 body img {
