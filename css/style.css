@@ -39,8 +39,7 @@ h3 {
 }
 
 .right {
-    text-align: right;
-    padding-left: 600px;
+    float: right;
 }
 
 .left {
