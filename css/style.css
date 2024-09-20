@@ -38,10 +38,15 @@ h3 {
     text-align: center;
 }
 
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
 .right {
-    padding-left: 600px;
+    padding-left: 500px;
 }
 
 .left {
-padding-right: 600px;
+padding-right: 500px;
 }
