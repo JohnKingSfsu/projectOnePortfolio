@@ -30,7 +30,7 @@ a {
 
 body img {
     border-width: 20px;
-    border: solid;
+    border-style: solid;
     border-color: rgb(142, 191, 236);
     margin: 5px;
 }
