@@ -12,6 +12,13 @@ body {
     margin-left: auto;
 }
 
+#gif {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-width: 0px;
+}
+
 .text {
     text-align: center;
 }
@@ -27,7 +34,7 @@ footer p a {
 }
 
 footer img {
-    border: none;
+    border-width: 0px;
 }
 
 a {
