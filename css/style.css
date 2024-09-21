@@ -6,6 +6,11 @@ body {
     background-color: rgb(254, 244, 213);
 }
 
+.center {
+    text-align: center;
+
+}
+
 .inspirationPage {
     display: flex;
 }
@@ -22,8 +27,10 @@ a {
     float: right;
 }
 
-body img {
-    border: 4px, solid, rgb(142, 191, 236);
+img {
+    border-width: 4px;
+    border: solid;
+    border-color: rgb(142, 191, 236);
     margin: 5px;
     padding: 2px;
 }
