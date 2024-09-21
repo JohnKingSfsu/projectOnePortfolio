@@ -7,8 +7,9 @@ body {
 }
 
 .center {
-    text-align: center;
-
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .inspirationPage {
