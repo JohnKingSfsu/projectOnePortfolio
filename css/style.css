@@ -14,12 +14,15 @@ footer p a {
     color: black;
 }
 
+a {
+    text-decoration: none;
+}
+
 .logo {
     float: right;
 }
 
 body img {
-    display: block;
     border: solid, rgb(142, 191, 236);
     margin: 5px;
     padding: 2px;
