@@ -27,7 +27,7 @@ a {
     float: right;
 }
 
-img {
+body img {
     border-width: 4px;
     border: solid;
     border-color: rgb(142, 191, 236);
