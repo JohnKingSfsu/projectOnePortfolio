@@ -28,11 +28,10 @@ a {
 }
 
 body img {
-    border-width: 4px;
+    border-width: 12px;
     border: solid;
     border-color: rgb(142, 191, 236);
     margin: 5px;
-    padding: 2px;
 }
 
 header a {
