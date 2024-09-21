@@ -18,13 +18,16 @@ body {
 
 .inspirationPage {
     display: flex;
-    display: block;
     margin-right: auto;
     margin-left: auto;
 }
 
 footer p a {
     color: black;
+}
+
+footer img {
+    border: none;
 }
 
 a {
