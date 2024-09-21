@@ -16,8 +16,9 @@ footer p a {
 
 body img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    border: solid, rgb(142, 191, 236);
+    margin: 5px;
+    padding: 2px;
 }
 
 header a {
