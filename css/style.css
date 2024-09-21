@@ -6,6 +6,10 @@ body {
     background-color: rgb(254, 244, 213);
 }
 
+.inspirationPage {
+    display: flex;
+}
+
 footer p a {
     color: black;
 }
