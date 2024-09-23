@@ -38,7 +38,7 @@ footer p a {
 }
 
 footer img {
-    border-width: 0px;
+    border-width: 0;
 }
 
 a {
@@ -49,7 +49,7 @@ a {
     float: right;
 }
 
-body img {
+:not(footer img) img {
     border-width: 20px;
     border-style: solid;
     border-color: rgb(142, 191, 236);
