@@ -8,6 +8,10 @@ header nav {
     padding: 0px;
 }
 
+p {
+    max-width: 600px;
+}
+
 body {
     background-color: rgb(254, 244, 213);
     font-family: "Itim", cursive;
@@ -34,7 +38,7 @@ body {
     padding-bottom: 20px;
 }
 
-#flexbox {
+.flexbox {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -125,4 +129,12 @@ h2 {
 
 .left {
 padding-right: 700px;
+}
+
+.wording {
+    margin: auto;
+}
+
+#centerbody {
+    justify-content: center;
 }
