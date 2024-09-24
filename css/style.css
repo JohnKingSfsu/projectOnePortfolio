@@ -60,10 +60,6 @@ dl {
     max-width: 250px;
   }
 
-.text {
-    text-align: center;
-}
-
 .inspirationPage {
     display: flex;
     align-items: center;
@@ -116,19 +112,6 @@ h3 {
 
 h2 {
     text-align: center;
-}
-
-.flex {
-    display: flex;
-    justify-content: space-around;
-}
-
-.right {
-    padding-left: 700px;
-}
-
-.left {
-padding-right: 700px;
 }
 
 .wording {
