@@ -3,11 +3,6 @@
     padding: 0;
 }
 
-header nav {
-    margin: 20px;
-    padding: 0px;
-}
-
 p {
     max-width: 600px;
 }
@@ -96,13 +91,19 @@ a {
 
 header a {
     text-decoration: none;
-    margin: 42px;
     color: black;
 }
 
-header {
-    text-align: center;
+nav {
+    margin-top: 15px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
 }
+
 
 h1 {
     text-align: center;
